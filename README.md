@@ -4,7 +4,7 @@
 
 ![Marigold poster and lab report](docs/screenshots/hero-composite.png)
 
-> **Live demo:** <!-- LIVE_DEMO_URL --> *(link added at submission)*
+> **Live demo:** https://marigold-the-clinic-kit.vercel.app/
 > **Validation:** `0 errors · 0 warnings` on all four templates · 7 email-client previews rendered
 
 All names, results and details are fictional sample data. This is a design template, not medical advice.

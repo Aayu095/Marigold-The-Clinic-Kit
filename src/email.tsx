@@ -124,11 +124,11 @@ export default function AppointmentEmail() {
             <ListItem>Nothing to print: your lab report is already with {doctor.shortName}.</ListItem>
           </List>
           <Row style={{ justifyContent: "center", padding: [10, 0, 2] }}>
-            <Button href="https://example.com/marigold/visit-summary">View your visit summary</Button>
+            <Button href="https://marigold-the-clinic-kit.vercel.app/visit-summary.html">View your visit summary</Button>
           </Row>
           <Text style={{ fontSize: 13, color: palette.muted, textAlign: "center" }}>
             Need to move it?{" "}
-            <Link href="https://example.com/marigold/reschedule" style={{ color: palette.moss, fontWeight: 600 }}>
+            <Link href="https://marigold-the-clinic-kit.vercel.app/" style={{ color: palette.moss, fontWeight: 600 }}>
               Reschedule your visit
             </Link>{" "}
             — no fees, no fuss.
